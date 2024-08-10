@@ -45,7 +45,7 @@ Please make the payment to complete your order. Thank you!
 
         // Encode the message for WhatsApp
         const encodedMessage = encodeURIComponent(invoiceMessage);
-        const whatsappUrl = `https://wa.me/8258991325?text=${encodedMessage}`;
+        const whatsappUrl = `https://wa.me/9233833775?text=${encodedMessage}`;
 
         // Redirect to WhatsApp
         window.open(whatsappUrl, '_blank');
